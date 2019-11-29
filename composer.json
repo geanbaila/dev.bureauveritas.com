@@ -1,0 +1,14 @@
+{
+    "name": "geanbaila/phpword",
+    "authors": [
+        {
+            "name": "Gean Baila",
+            "email": "geanbaila@gmail.com"
+        }
+    ],
+    "require": {
+       "phpoffice/phpword": "v0.16.*",
+        "krustnic/docx-merge": "^1.0",
+        "jupitern/docx": "^1.0"                
+    }
+}
