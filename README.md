@@ -19,4 +19,4 @@
 
 
 ## Final results
-![github-small](https://github.com/geanbaila/dev.bureauveritas.com.git/blob/master/img1.png)
+![github-small](https://github.com/geanbaila/dev.bureauveritas.com/blob/master/img1.png)
