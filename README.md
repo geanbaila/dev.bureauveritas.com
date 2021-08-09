@@ -1,10 +1,10 @@
-**Generar un reporte en word usando PHP**
+**Generate a report in word/PDF using PHP**
 
-*Este script fue escrito en PHP, usa Composer y MySQL*
+*This script was written in PHP, it uses Composer and MySQL*
 
 ---
 
-## Otros módulos PHP necesarios
+## Other required PHP modules
 
 1. apt-get install php-zip 
 2. apt-get install php-xml
@@ -13,6 +13,10 @@
 
 ---
 
-## Personaliza tu documento
+## Customize your document
 
-1. El word archivo_base.docx es la plantilla sobre la cual se escriben las siguiente páginas, modificarlo en caso requiera
+1. The word archivo_base.docx is the template on which the following pages are written, modify it if required
+
+
+## Final results
+![github-small](https://github.com/geanbaila/dev.bureauveritas.com.git/blob/master/img1.png)
